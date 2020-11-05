@@ -2,6 +2,10 @@
 
 ![](/imagens/capa.png)
 
+## Sobre
+
+Este projeto tem por finalidade o estudo da tecnologia Puppeter, onde criei
+um Robo que faz a verificação do preço das ações solicitadas na bolsa de valores.
 
 
 ## Tecnólogias
